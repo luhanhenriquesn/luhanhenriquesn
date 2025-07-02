@@ -7,7 +7,7 @@
 <div>
 <a href="https://beacons.ai/luhanhenriquesn">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhanhenriquesn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhanhenriquesn&layout=compact&langs_count=13&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhanhenriquesn&layout=compact&langs_count=18&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
