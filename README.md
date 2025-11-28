@@ -1,6 +1,6 @@
 ## Olá, meu nome é Luhan Henrique!
 
-- 🔭 Hoje trabalho com desenvovimento de sistemas
+- 🔭 Hoje trabalho como suporte tecnico n2
 - 🌱 Estudo a Inteligencia Artificial
 - ⚡ Curiosidade: Gosto de praticar musculação e outros esportes
   
